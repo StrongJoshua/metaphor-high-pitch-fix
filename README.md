@@ -13,11 +13,13 @@ I will be adding more updates to this mod, fixing more sounds, as I play through
     1. Follow the same guide as for Ryo to install
 1. Make sure both mods are enabled (have a `+` icon next to their names in Reloaded's tab for Metaphor)
 1. Make sure Ryo is loaded first (above this mod in the list)
+1. Launch the game using Reloaded
 
 ## How to Contribute
 1. Follow this guide: https://ryotune.github.io/guides/audio/audio-replacement-ryo/#replacing-audio
-  1. This will show you the format of audio files in the mod and how to get the name of the one you want to replace.
-1. Copy one of the existing audio replacement files.
-1. Paste the copy into the correct cue category directory.
-1. Rename it to your cue's NAME (not ID, this is just easier for tracking).
-1. Submit a pull request.
+  1. This will show you the format of audio files in the mod and how to get the name of the one you want to replace
+1. Copy one of the existing audio replacement files
+1. Paste the copy into the correct cue category directory
+1. Rename it to your cue's NAME (not ID, this is just easier for tracking)
+1. Launch the game and verify the audio is fixed
+1. Submit a pull request
