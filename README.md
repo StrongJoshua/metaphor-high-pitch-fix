@@ -13,7 +13,7 @@ I will be adding more updates to this mod, fixing more sounds, as I play through
     1. Download the latest release from: https://github.com/StrongJoshua/metaphor-high-pitch-fix/releases
         1. Follow the same guide as for Ryo to install
     1. Alternatively, install from [GameBanana](https://gamebanana.com/sounds/92358)
-    1.  This may be out of date, but Reloaded should prompt you to update automatically next time you launch Reloaded
+        1. This version may be out of date, but Reloaded should prompt you to update automatically next time you launch Reloaded
 1. Make sure both mods are enabled (have a `+` icon next to their names in Reloaded's tab for Metaphor)
 1. Make sure Ryo is loaded first (above this mod in the list)
 1. Launch the game using Reloaded
