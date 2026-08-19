@@ -65,6 +65,12 @@
           "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
         }
       }
+    },
+    "GitHubRelease": {
+      "UserName": "StrongJoshua",
+      "RepositoryName": "metaphor-high-pitch-fix",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
     }
   },
   "IsUniversalMod": false,
@@ -75,5 +81,5 @@
   "SupportedAppId": [
     "metaphor.exe"
   ],
-  "ProjectUrl": ""
+  "ProjectUrl": "https://github.com/StrongJoshua/metaphor-high-pitch-fix"
 }
