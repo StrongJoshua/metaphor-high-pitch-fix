@@ -2,7 +2,7 @@
   "ModId": "metaphor.sound.strongjoshuahighpitchfix",
   "ModName": "StrongJoshua\u0027s Metaphor High Pitch Fix",
   "ModAuthor": "StrongJoshua",
-  "ModVersion": "0.1.0",
+  "ModVersion": "0.2.0",
   "ModDescription": "Replaces Audio Files with Silence",
   "ModDll": "",
   "ModIcon": "",
@@ -66,11 +66,9 @@
         }
       }
     },
-    "GitHubRelease": {
-      "UserName": "StrongJoshua",
-      "RepositoryName": "metaphor-high-pitch-fix",
-      "UseReleaseTag": true,
-      "AssetFileName": "Mod.zip"
+    "GameBanana": {
+      "ItemType": "sounds",
+      "ItemId": 92358
     }
   },
   "IsUniversalMod": false,
